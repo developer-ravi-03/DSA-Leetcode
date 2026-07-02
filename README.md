@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
