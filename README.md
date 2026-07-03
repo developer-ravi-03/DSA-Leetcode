@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0051-n-queens) |
 ## Backtracking
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 ## String
 |  |
