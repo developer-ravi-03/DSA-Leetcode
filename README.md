@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0322-coin-change) |
+| [0509-fibonacci-number](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0647-palindromic-substrings) |
 ## Database
 |  |
@@ -46,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0060-permutation-sequence) |
+| [0509-fibonacci-number](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0060-permutation-sequence) |
+| [0509-fibonacci-number](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0322-coin-change) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
