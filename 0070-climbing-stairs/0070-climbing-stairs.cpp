@@ -1,13 +1,21 @@
 class Solution {
 public:
     unordered_map<int,int>dp;
-    int climbStairs(int n) {
-        if (n==1 || n==2) return n;
-        if(dp.find(n)!=dp.end()) return dp[n];
+    int helper(int i,int n){
+        if(i==n) return 1;
 
-        int ans=climbStairs(n-1)+climbStairs(n-2);
-        dp[n]=ans;
+        if(i>n) return 0;
 
+        if(dp.find(i)!=dp.end()){
+            return dp[i];
+        }
+        int a1=helper(i+1,n);
+        int a2=helper(i+2,n);
+        int ans=a1+a2;
+        dp[i]=ans;
         return ans;
+    }
+    int climbStairs(int n) {
+        return helper(0,n);
     }
 };
