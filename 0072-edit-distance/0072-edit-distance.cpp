@@ -2,14 +2,14 @@ class Solution {
 public:
     int helper(int i,int j,string &s1,string &s2,vector<vector<int>>&dp){
         //exhausted
-        if(i<0) return j+1;
-        if(j<0) return i+1;
+        if(i==0) return j;
+        if(j==0) return i;
 
         //check dp for result
         if(dp[i][j]!=-1)return dp[i][j];
 
         //if matching 
-        if(s1[i]==s2[j]){
+        if(s1[i-1]==s2[j-1]){
             return dp[i][j]=0+helper(i-1,j-1,s1,s2,dp);
         }
         //try insert, delete, and replace
@@ -19,7 +19,7 @@ public:
         int n=s1.size();
         int m=s2.size();
         //memoization
-        vector<vector<int>>dp(n,vector<int>(m,-1));
-        return helper(n-1,m-1,s1,s2,dp);
+        vector<vector<int>>dp(n+1,vector<int>(m+1,-1));
+        return helper(n,m,s1,s2,dp);
     }
 };
