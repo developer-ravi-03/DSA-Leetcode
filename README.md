@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Database
 |  |
 | ------- |
