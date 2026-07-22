@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0064-minimum-path-sum](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
