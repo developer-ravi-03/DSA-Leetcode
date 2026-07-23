@@ -1,26 +1,34 @@
 class Solution {
 public:
-  
-    int helper(int i, int n, int amount, vector<int>& coins,vector<vector<int>> &dp) {
-        if (amount == 0) {            
-            return 0;
-        }
-        if (i == n)
-            return 1e9;
-
-        if(dp[i][amount]!=-1) return dp[i][amount];
-
-        int yes=1e9;
-        if (coins[i] <= amount) {
-            yes=1+helper(i, n, amount - coins[i], coins,dp);
-        }
-        int no=helper(i + 1, n, amount, coins,dp);
-        return dp[i][amount]=min(yes,no);
-    }
     int coinChange(vector<int>& coins, int amount) {
+
         int n = coins.size();
-        vector<vector<int>>dp(n,vector<int>(amount+1,-1));
-        int ans=helper(0, n, amount, coins,dp);
-        return ans>=1e9?-1:ans;
+        const int INF = 1e9;
+
+        vector<vector<int>> dp(n + 1, vector<int>(amount + 1, INF));
+
+        // Base case
+        for(int i = 0; i <= n; i++)
+            dp[i][0] = 0;
+
+        for(int i = n - 1; i >= 0; i--) {
+
+            for(int j = 1; j <= amount; j++) {
+
+                int take = INF;
+
+                if(coins[i] <= j)
+                    take = 1 + dp[i][j - coins[i]];
+
+                int skip = dp[i + 1][j];
+
+                dp[i][j] = min(take, skip);
+            }
+        }
+
+        if(dp[0][amount] >= INF)
+            return -1;
+
+        return dp[0][amount];
     }
 };
