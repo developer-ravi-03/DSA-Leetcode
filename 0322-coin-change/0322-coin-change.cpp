@@ -5,30 +5,29 @@ public:
         int n = coins.size();
         const int INF = 1e9;
 
-        vector<vector<int>> dp(n + 1, vector<int>(amount + 1, INF));
+        vector<int> next(amount + 1, INF);
+        next[0] = 0;
 
-        // Base case
-        for(int i = 0; i <= n; i++)
-            dp[i][0] = 0;
+        for (int i = n - 1; i >= 0; i--) {
 
-        for(int i = n - 1; i >= 0; i--) {
+            vector<int> curr(amount + 1, INF);
+            curr[0] = 0;
 
-            for(int j = 1; j <= amount; j++) {
+            for (int j = 1; j <= amount; j++) {
 
                 int take = INF;
 
-                if(coins[i] <= j)
-                    take = 1 + dp[i][j - coins[i]];
+                if (coins[i] <= j)
+                    take = 1 + curr[j - coins[i]];
 
-                int skip = dp[i + 1][j];
+                int skip = next[j];
 
-                dp[i][j] = min(take, skip);
+                curr[j] = min(take, skip);
             }
+
+            next = curr;
         }
 
-        if(dp[0][amount] >= INF)
-            return -1;
-
-        return dp[0][amount];
+        return next[amount] == INF ? -1 : next[amount];
     }
 };
