@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0647-palindromic-substrings) |
+| [0887-super-egg-drop](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Database
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0509-fibonacci-number) |
+| [0887-super-egg-drop](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0887-super-egg-drop) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0887-super-egg-drop](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0887-super-egg-drop) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Stack
 |  |
