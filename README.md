@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0139-word-break](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -100,9 +103,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0064-minimum-path-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0139-word-break](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
