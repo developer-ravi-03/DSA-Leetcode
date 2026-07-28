@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0139-word-break) |
+## Sorting
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
