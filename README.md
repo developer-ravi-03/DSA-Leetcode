@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0139-word-break) |
+| [0451-sort-characters-by-frequency](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0139-word-break) |
+| [0451-sort-characters-by-frequency](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Trie
 |  |
 | ------- |
@@ -121,9 +123,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
