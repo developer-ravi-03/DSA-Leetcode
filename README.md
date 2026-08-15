@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0051-n-queens) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0887-super-egg-drop](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0887-super-egg-drop) |
