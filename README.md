@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0887-super-egg-drop](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0887-super-egg-drop) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
 | ------- |
