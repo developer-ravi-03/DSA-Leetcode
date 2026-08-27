@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0027-remove-element) |
+| [0295-find-median-from-data-stream](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0647-palindromic-substrings) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Binary Search
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
@@ -165,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
