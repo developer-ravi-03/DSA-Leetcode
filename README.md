@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -102,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Breadth-First Search
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Trie
 |  |
 | ------- |
