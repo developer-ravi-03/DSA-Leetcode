@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
@@ -175,9 +176,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
