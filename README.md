@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0409-longest-palindrome](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0409-longest-palindrome](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Trie
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0146-lru-cache) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
