@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0509-fibonacci-number) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
