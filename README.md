@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/developer-ravi-03/DSA-Leetcode/tree/master/0139-word-break) |
 ## Sorting
 |  |
